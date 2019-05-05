@@ -1,2 +1,2 @@
-127.0.0.1 slots=2 max_slots=4
+127.0.0.1 slots=999 max_slots=1000
 
