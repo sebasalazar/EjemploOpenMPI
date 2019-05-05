@@ -1,2 +1,2 @@
-localhost slots=10 max_slots=10
+127.0.0.1 slots=2 max_slots=4
 
